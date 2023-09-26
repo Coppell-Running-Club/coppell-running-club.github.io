@@ -1,4 +1,3 @@
-# Coppell Running Club
 
 ![Photo of runners](/docs/assets/img/runners-image.jpeg)
 
